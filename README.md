@@ -1,4 +1,4 @@
-# CIS-Windows-10-Enterprise
+# CIS Windows 10 Enterprise (excel version)
 Hardening Windows 10 Enterprise
 
 This project contains a remapping from CIS manual (pdf) to excel of all more than 500 controls stated by CIS.
